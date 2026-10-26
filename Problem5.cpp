@@ -16,4 +16,11 @@ int main()
        int z = u - 97;
        cout << (char)z << endl;
     }
+    for(char j = 'A';j<'Z';j++)
+    {
+        // cout << (int)j << endl;
+        int k = (int)j + 97;
+        int h = k - 65;
+        cout << (char)h << endl;
+    }
 }
