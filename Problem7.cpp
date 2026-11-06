@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "Classes Started" << endl;
-    //Happy Dhanteras Tomorrow
+    cout << "Will start problems" << endl;
     return 0;
 }
